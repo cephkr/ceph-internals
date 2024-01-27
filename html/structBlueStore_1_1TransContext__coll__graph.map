@@ -1,0 +1,6 @@
+<map id="BlueStore::TransContext" name="BlueStore::TransContext">
+<area shape="rect" id="node1" title=" " alt="" coords="179,109,357,136"/>
+<area shape="rect" id="node2" href="$structBlueStore_1_1AioContext.html" title=" " alt="" coords="5,13,171,39"/>
+<area shape="rect" id="node3" href="$structbluestore__deferred__transaction__t.html" title="writeahead&#45;logged transaction" alt="" coords="195,5,341,47"/>
+<area shape="rect" id="node4" href="$structBlueStore_1_1volatile__statfs.html" title=" " alt="" coords="365,5,507,47"/>
+</map>

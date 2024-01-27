@@ -1,0 +1,11 @@
+<map id="BlueStore::OpSequencer" name="BlueStore::OpSequencer">
+<area shape="rect" id="node1" title=" " alt="" coords="568,77,747,104"/>
+<area shape="rect" id="node3" href="$structBlueStore_1_1DeferredBatch.html" title=" " alt="" coords="913,40,1100,67"/>
+<area shape="rect" id="node2" title=" " alt="" coords="343,52,483,79"/>
+<area shape="rect" id="node4" href="$structBlueStore_1_1AioContext.html" title=" " alt="" coords="575,5,740,32"/>
+<area shape="rect" id="node5" href="$classBlueStore.html" title=" " alt="" coords="370,103,455,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="59,27,158,53"/>
+<area shape="rect" id="node7" title=" " alt="" coords="43,77,174,104"/>
+<area shape="rect" id="node8" href="$structBlueStore_1_1BSPerfTracker.html" title=" " alt="" coords="17,128,200,155"/>
+<area shape="rect" id="node9" href="$classBlueStore_1_1BlueStoreThrottle.html" title=" " alt="" coords="5,179,212,205"/>
+</map>

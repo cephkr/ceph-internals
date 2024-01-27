@@ -1,0 +1,9 @@
+<map id="Allocator" name="Allocator">
+<area shape="rect" id="node1" title=" " alt="" coords="309,5,389,32"/>
+<area shape="rect" id="node2" href="$classAvlAllocator.html" title=" " alt="" coords="17,80,117,107"/>
+<area shape="rect" id="node4" href="$classBitmapAllocator.html" title=" " alt="" coords="141,80,267,107"/>
+<area shape="rect" id="node5" href="$classBtreeAllocator.html" title=" " alt="" coords="292,80,407,107"/>
+<area shape="rect" id="node6" href="$classStupidAllocator.html" title=" " alt="" coords="431,80,553,107"/>
+<area shape="rect" id="node7" href="$classZonedAllocator.html" title=" " alt="" coords="577,80,698,107"/>
+<area shape="rect" id="node3" href="$classHybridAllocator.html" title=" " alt="" coords="5,155,128,181"/>
+</map>

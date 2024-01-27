@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classFreelistManager.html" title=" " alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$classBitmapFreelistManager.html" title=" " alt="" coords="180,5,355,32"/>
+<area shape="rect" id="node3" href="$classZonedFreelistManager.html" title=" " alt="" coords="183,56,351,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bluestore_shared_blob_t" name="bluestore_shared_blob_t">
+<area shape="rect" id="node1" title="shared blob state" alt="" coords="5,109,187,136"/>
+<area shape="rect" id="node2" href="$structbluestore__extent__ref__map__t.html" title="extent_map: a std::map of reference counted extents" alt="" coords="17,5,175,47"/>
+</map>

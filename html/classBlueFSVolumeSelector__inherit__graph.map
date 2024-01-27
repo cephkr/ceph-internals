@@ -1,0 +1,6 @@
+<map id="BlueFSVolumeSelector" name="BlueFSVolumeSelector">
+<area shape="rect" id="node1" title=" " alt="" coords="123,5,291,32"/>
+<area shape="rect" id="node2" href="$classOriginalVolumeSelector.html" title=" " alt="" coords="8,80,183,107"/>
+<area shape="rect" id="node4" href="$classRocksDBBlueFSVolumeSelector.html" title=" " alt="" coords="207,80,434,107"/>
+<area shape="rect" id="node3" href="$classFitToFastVolumeSelector.html" title=" " alt="" coords="5,155,185,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structBlueStore_1_1CacheShard.html" title="A generic Cache Shard." alt="" coords="5,81,176,108"/>
+<area shape="rect" id="node2" href="$structBlueStore_1_1BufferCacheShard.html" title="A Generic buffer Cache Shard." alt="" coords="225,56,435,83"/>
+<area shape="rect" id="node5" href="$structBlueStore_1_1OnodeCacheShard.html" title="A Generic onode Cache Shard." alt="" coords="224,107,436,133"/>
+<area shape="rect" id="node3" href="$structLruBufferCacheShard.html" title=" " alt="" coords="491,5,650,32"/>
+<area shape="rect" id="node4" href="$structTwoQBufferCacheShard.html" title=" " alt="" coords="484,56,657,83"/>
+<area shape="rect" id="node6" href="$structLruOnodeCacheShard.html" title=" " alt="" coords="490,107,651,133"/>
+</map>

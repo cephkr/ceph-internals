@@ -1,0 +1,9 @@
+<map id="AllocatorLevel" name="AllocatorLevel">
+<area shape="rect" id="node1" title=" " alt="" coords="242,5,357,32"/>
+<area shape="rect" id="node2" href="$classAllocatorLevel02.html" title=" " alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node4" href="$classAllocatorLevel01.html" title=" " alt="" coords="234,87,365,114"/>
+<area shape="rect" id="node7" href="$classAllocatorLevel02.html" title=" " alt="" coords="389,87,565,114"/>
+<area shape="rect" id="node3" href="$classBitmapAllocator.html" title=" " alt="" coords="44,169,171,196"/>
+<area shape="rect" id="node5" href="$classAllocatorLevel01Compact.html" title=" " alt="" coords="199,169,389,196"/>
+<area shape="rect" id="node6" href="$classAllocatorLevel01Loose.html" title=" " alt="" coords="413,169,583,196"/>
+</map>

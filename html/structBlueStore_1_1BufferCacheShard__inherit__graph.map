@@ -1,0 +1,6 @@
+<map id="BlueStore::BufferCacheShard" name="BlueStore::BufferCacheShard">
+<area shape="rect" id="node1" title="A Generic buffer Cache Shard." alt="" coords="75,80,284,107"/>
+<area shape="rect" id="node3" href="$structLruBufferCacheShard.html" title=" " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node4" href="$structTwoQBufferCacheShard.html" title=" " alt="" coords="189,155,362,181"/>
+<area shape="rect" id="node2" href="$structBlueStore_1_1CacheShard.html" title="A generic Cache Shard." alt="" coords="94,5,265,32"/>
+</map>
